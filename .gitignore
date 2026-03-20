@@ -4,3 +4,12 @@ __pycache__/
 data/raw/
 .env
 .DS_Store
+.venv
+data/the-movies-dataset/credits.csv
+data/the-movies-dataset/keywords.csv
+data/the-movies-dataset/links.csv
+data/the-movies-dataset/links_small.csv
+data/the-movies-dataset/movies_metadata.csv
+data/the-movies-dataset/ratings.csv
+data/the-movies-dataset/ratings_small.csv
+*.csv
